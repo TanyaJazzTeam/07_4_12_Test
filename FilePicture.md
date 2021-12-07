@@ -85,6 +85,8 @@ $ npm install --production
 $ NODE_ENV=production node app
 ```
 
+# 07/12/2021
+
 ### Plugins
 
 Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
